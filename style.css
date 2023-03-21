@@ -2,15 +2,16 @@
   text-align:center;
   font-size:50px;
   font-family:"Copperplate";
+  color:"white"
 }
 
 .Middle{
   font-family:"Arial";
-  
+  color:"white";
   
 }
 
-html{
+body{
  background-color:"black;
   color:"white";
   
