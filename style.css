@@ -1,18 +1,18 @@
-.top {
+::.top {
   text-align:center;
   font-size:50px;
   font-family:"Copperplate";
   color:"white";
 }
 
-.middle {
+::.middle {
   font-family:"Arial";
   color:"white";
   
 }
 
-body {
- background-color:"black;
+::body {
+ background:"black;
   color:"white";
   
   
