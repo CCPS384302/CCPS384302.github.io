@@ -32,3 +32,7 @@ footer{
   text-align:center;
   color:#6A0500;
 }
+img{
+  padding:20px;
+  place-items:center;
+}
