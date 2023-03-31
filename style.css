@@ -19,6 +19,7 @@ body {
 }
 a{
   color:"white";
+  font-size:20px;
   
 }
 a:visited{
@@ -35,4 +36,15 @@ footer{
 img{
   padding:20px;
   place-items:center;
+}
+.leftlink{
+ text-align:left; 
+}
+
+.middlelink{
+ text-align:center; 
+}
+
+.rightlink{
+ text-align:right; 
 }
