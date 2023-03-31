@@ -17,3 +17,11 @@ body {
   
   
 }
+a{
+  color:"white";
+  
+}
+a:visited{
+  color:#00aaff;
+  
+}
