@@ -46,3 +46,12 @@ img {
 li{
  list-style-type:none; 
 }
+.leftlink{
+text-align:left;
+}
+.middlelink{
+  text-align:middle;
+}
+.rightlink{
+ text-align:right; 
+}
