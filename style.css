@@ -18,6 +18,7 @@ body {
   
 }
 a {
+  disply: inline-block;
   color: "white";
   font-size: 20px;
   
