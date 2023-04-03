@@ -38,7 +38,7 @@ img {
   place-items: center;
 }
 
-.nav li {
+.nav {
   display: inline-block;
   width: 80px;
 }
