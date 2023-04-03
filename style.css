@@ -1,50 +1,44 @@
 .top {
-  text-align:center;
-  font-size:50px;
-  font-family:"Copperplate";
-  color:#FFFFFF;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Copperplate";
+  color: #FFFFFF;
 }
 
 .middle {
-  font-family:"Arial";
-  color:#FFFFFF;
+  font-family: "Arial";
+  color: #FFFFFF;
   
 }
 
 body {
- background-color:#000000;
-  color:#FFFFFF;
+ background-color: #000000;
+  color: #FFFFFF;
   
   
 }
-a{
-  color:"white";
-  font-size:20px;
+a {
+  color: "white";
+  font-size: 20px;
   
 }
-a:visited{
-  color:#00aaff;
+a:visited {
+  color: #00aaff;
   
 }
-a:hover{
- color:#AE1D14; 
+a:hover {
+ color: #AE1D14; 
 }
-footer{
-  text-align:center;
-  color:#6A0500;
+footer {
+  text-align: center;
+  color: #6A0500;
 }
-img{
-  padding:20px;
-  place-items:center;
-}
-.leftlink{
-
+img {
+  padding: 20px;
+  place-items: center;
 }
 
-.middlelink{
- text-align:center; 
-}
-
-.rightlink{
- text-align:right; 
+nav {
+  display: inline-block;
+  width: 80px;
 }
