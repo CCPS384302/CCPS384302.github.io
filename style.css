@@ -43,8 +43,10 @@ img{
 
 .middlelink{
  text-align:center; 
+  text-indent:150px;
 }
 
 .rightlink{
  text-align:right; 
+  text-indent:300px;
 }
