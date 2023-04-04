@@ -34,13 +34,42 @@ footer {
   text-align: center;
   color: #6A0500;
 }
-.nav ul{
-  padding:0;
+.nav a {
+list-style-type:none;
+ padding:0;
   margin:0;
   background-color:#A80501;
-  list-style-type:none;
   overflow:hidden;
   display: inline;
   width: 100%;
 }
+
+h1{
+ text-align:center;
+  
+}
+
+p{
+text-align: center;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
