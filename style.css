@@ -15,14 +15,14 @@ body {
  background-color: #000000;
   color: #FFFFFF;
   
-  
 }
-a {
-  disply: inline-block;
-  color: "white";
-  font-size: 20px;
-  
+
+a{
+ color:"white"; 
+  font-size:20px;
 }
+
+
 a:visited {
   color: #00aaff;
   
@@ -34,18 +34,13 @@ footer {
   text-align: center;
   color: #6A0500;
 }
-img {
-  padding: 20px;
-  place-items: center;
-}
-
-a{
+.nav ul{
   padding:0;
   margin:0;
   background-color:#A80501;
   list-style-type:none;
   overflow:hidden;
-  display: table;
+  display: inline;
   width: 100%;
 }
 
