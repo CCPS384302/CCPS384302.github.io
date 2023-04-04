@@ -40,7 +40,7 @@ footer {
   color: #6A0500;
 }
 
-.nav ul {
+.nav ul a {
 list-style-type:none;
  padding:14px;
   margin:16px;
