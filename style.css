@@ -40,21 +40,16 @@ footer {
   color: #6A0500;
 }
 
-.nav ul a {
+.nav ul {
 list-style-type:none;
  padding:14px;
   margin:16px;
-  background-color:#A80501;
   overflow:hidden;
   display: table;
   width: 100%;
 }
 
-li{
- float:left; 
-  
-  
-}
+
 
 h1{
  text-align:center;
